@@ -1,0 +1,11 @@
+├── jenkins/
+│   └── Jenkinsfile
+├── docker/
+│   └── Dockerfile
+├── aws/
+│   └── ecs-setup.md
+├── azure/
+│   └── aks-setup.md
+├── monitoring/
+│   └── prometheus-grafana.md
+└── README.md
