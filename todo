@@ -1,0 +1,21 @@
+Contents:
+
+Jenkins pipeline
+
+Intentional failure cases:
+
+Build failure
+
+Test failure
+
+Deployment rollback
+
+README sections:
+
+What breaks
+
+Why it breaks
+
+How it should be detected
+
+How rollback is triggered
